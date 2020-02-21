@@ -5,5 +5,7 @@ It doesn't aim to replace Google Advanced Search.
 
 This extension doesn't collect any user and web page information. It only runs on google.com. It is free to use.
 
+![Search Operators Cheatsheet](assets/original.png)
+
 ## Contributions
 Contributions are welcome. Please follow the standart.js convention if you want to contribute.
