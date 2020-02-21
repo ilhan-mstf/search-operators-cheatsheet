@@ -1,5 +1,5 @@
 # Search Operators Cheatsheet
-This extesion aims to remind you search operators that are used to refine search results. The extension just gives examples of them.
+This extension aims to remind you search operators that are used to refine search results. The extension just gives examples of them.
 
 It doesn't aim to replace Google Advanced Search.
 
