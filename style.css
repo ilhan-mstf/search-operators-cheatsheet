@@ -2,6 +2,7 @@
   position: absolute;
   top: 0;
   left: 820px;
+  right: 140px;
   opacity: .5;
 }
 
@@ -14,7 +15,7 @@
   border-radius: 24px;
   height: 46px;
   outline: none;
-  width: 400px;
+  width: 100%;
   font-family: monospace;
 }
 
